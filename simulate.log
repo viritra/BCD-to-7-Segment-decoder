@@ -1,0 +1,24 @@
+Time resolution is 1 ps
+At Time: 0
+ BCD: xxxx, Seg: xxxxxxx
+At Time: 5000
+ BCD: 0000, Seg: 1111110
+At Time: 10000
+ BCD: 0001, Seg: 0110000
+At Time: 15000
+ BCD: 0010, Seg: 1101101
+At Time: 20000
+ BCD: 0011, Seg: 1111001
+At Time: 25000
+ BCD: 0000, Seg: 1111110
+At Time: 30000
+ BCD: 0001, Seg: 0110000
+At Time: 35000
+ BCD: 0010, Seg: 1101101
+At Time: 40000
+ BCD: 0011, Seg: 1111001
+At Time: 45000
+ BCD: 0000, Seg: 1111110
+At Time: 50000
+ BCD: 0001, Seg: 0110000
+$finish called at time : 55 ns : File "C:/Users/ritik/OneDrive/Desktop/V/Exercises/BCD to 7 Segment Decoder/BCD to 7 Segment Decoder.srcs/sim_1/new/bcd_dec_tb.v" Line 40
